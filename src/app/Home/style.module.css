@@ -1,0 +1,20 @@
+
+
+.container{
+    width: 360px;
+}
+
+.stories_title{
+    font-size: 15px;
+    margin: 3px 5px;
+}
+
+.product__title{
+    font-size: 15px;
+    margin: 3px 5px;
+}
+
+.feed__title{
+    font-size: 15px;
+    margin: 3px 5px;
+}

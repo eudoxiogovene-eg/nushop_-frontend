@@ -1,0 +1,26 @@
+
+.container{
+    width: fit-content;
+    background: transparent;
+    display: flex;
+    align-items: center;
+    border: 1px solid var(--cor7);
+    background-color: var(--cor5);
+    padding: 2px;
+}
+
+
+.container input{
+    width: 335px;
+    padding: 10px;
+    border: none;
+    outline: 0;
+}
+
+.container input:focus{
+    border: none;
+    outline: 0;
+}
+.container input::placeholder{
+    color: var(--cor7);
+}

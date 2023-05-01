@@ -1,0 +1,13 @@
+
+
+.container{
+    width: 80%;
+    height: 100vh;
+    background-color: var(--cor5);
+}
+
+.content__back{
+    width: 100%;
+    height: 200px;
+    background-color: var(cor4);
+}

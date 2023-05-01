@@ -1,0 +1,153 @@
+
+
+.container{
+    width: 100%;
+    padding:0 5px;
+}
+
+.content__image1 {
+    width: 100%;
+    height: 100%;
+   
+}
+
+.content__image1 img{
+    width:365px;
+    height:300px;
+    object-fit: cover;
+}
+
+/**/
+
+.content__image2{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    gap: 2px;
+
+}
+.image__2__area{
+    width: 50%;
+    height: 100%;
+}
+.image__2__area img{
+    width: 181.5px;
+    height: 235px;
+    object-fit: cover;
+}
+
+/**/
+.content__image3{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    gap: 2px;
+}
+
+.content__left{
+    width: 50%;
+    display: flex;
+}
+.content__left img{
+    width: 181.5px;
+    height: 240px;
+    object-fit: cover;
+    
+}
+
+.content__right{
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    gap: 2px;
+   
+}
+.content__right__image3{
+    display: flex;  
+}
+
+.content__right__image3 img{
+    width: 181.5px;
+    height: 119.5px;
+    object-fit: cover;
+}
+/**/
+
+
+.content__image4{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    gap: 2px;
+}
+
+.content__left{
+    width: 50%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    gap: 2px;
+}
+
+.content__image__area{
+    width: 100%;
+    height: 50%;
+    display: flex;
+}
+
+.content__image__area img{
+    width: 181.5px;
+    height: 119.5px;
+    object-fit: cover;
+}
+
+/**/
+.content__image5{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    gap: 2px;
+}
+
+
+.content__top__Image__area{
+    display: flex;
+    width: 100%;
+    height: 50%;
+    gap: 2px;
+}
+
+.top__image__area{
+    width: 181.5px;
+    height: 119.5px;
+    display: flex;
+}
+.top__image__area img{
+    width: 100%;
+    height: 119.5px;
+    object-fit: cover;
+}
+
+
+.content__bottom__Image__area{
+    width: 100%;
+    height: 50%;
+    display: flex;
+    gap: 2px;
+}
+
+
+.top__bottom__area{
+    width: 120.5px;
+    height: 119.5px;
+    display: flex;
+}
+
+.top__bottom__area img{
+   width: 100%;
+   height: 100%;
+    object-fit: cover;
+}
+
+/**/
