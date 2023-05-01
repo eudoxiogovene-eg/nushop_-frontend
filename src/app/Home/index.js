@@ -29,6 +29,14 @@ export default function Feed(){
                    <h3>feed</h3>
                 </div>
                 <Post />
+                <Post />
+                <Post />
+
+                <Post />
+                <Post />
+                <Post />
+                <Post />
+                <Post />
              </div>
         </div>
     )
