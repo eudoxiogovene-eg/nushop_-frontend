@@ -2,6 +2,7 @@
 
 .container{
     width: 100%;
+
     padding:0 5px;
 }
 
@@ -12,7 +13,7 @@
 }
 
 .content__image1 img{
-    width:365px;
+    width:100%;
     height:300px;
     object-fit: cover;
 }
@@ -23,7 +24,7 @@
     width: 100%;
     height: 100%;
     display: flex;
-    gap: 2px;
+    gap: 3px;
 
 }
 .image__2__area{
@@ -31,7 +32,7 @@
     height: 100%;
 }
 .image__2__area img{
-    width: 181.5px;
+    width: 100%;
     height: 235px;
     object-fit: cover;
 }
@@ -49,7 +50,7 @@
     display: flex;
 }
 .content__left img{
-    width: 181.5px;
+    width: 100%;
     height: 240px;
     object-fit: cover;
     
@@ -67,8 +68,8 @@
 }
 
 .content__right__image3 img{
-    width: 181.5px;
-    height: 119.5px;
+    width: 100%;
+    height: 119px;
     object-fit: cover;
 }
 /**/
@@ -96,7 +97,7 @@
 }
 
 .content__image__area img{
-    width: 181.5px;
+    width: 100%;
     height: 119.5px;
     object-fit: cover;
 }
@@ -115,17 +116,17 @@
     display: flex;
     width: 100%;
     height: 50%;
-    gap: 2px;
+    gap: 3px;
 }
 
 .top__image__area{
-    width: 181.5px;
+    width: 100%;
     height: 119.5px;
     display: flex;
 }
 .top__image__area img{
     width: 100%;
-    height: 119.5px;
+    height: 100%;
     object-fit: cover;
 }
 

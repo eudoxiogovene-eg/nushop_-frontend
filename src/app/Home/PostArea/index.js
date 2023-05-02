@@ -36,7 +36,7 @@ const products=[
 ]
 
 const product={
-    quantidadeFoto:4
+    quantidadeFoto:5
 }
 
 export default function PostArea(){
